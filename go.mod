@@ -1,3 +1,3 @@
-module interpreter-in-go
+module minotavar
 
 go 1.18

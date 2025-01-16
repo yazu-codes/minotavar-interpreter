@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"interpreter-in-go/lexer"
-	"interpreter-in-go/token"
+	"minotavar/lexer"
+	"minotavar/token"
 )
 
 const PROMPT = ">> "

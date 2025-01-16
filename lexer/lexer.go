@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"interpreter-in-go/token"
+	"minotavar/token"
 )
 
 type Lexer struct {

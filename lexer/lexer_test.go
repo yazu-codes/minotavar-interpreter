@@ -2,7 +2,7 @@ package lexer
 
 import (
 	"testing"
-	"interpreter-in-go/token"
+	"minotavar/token"
 )
 
 func TestNextToken(t *testing.T) {
